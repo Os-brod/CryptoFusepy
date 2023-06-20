@@ -1,9 +1,9 @@
-# # CryptoFusePy
+## CryptoFusePy
 
 CryptoFusePy is a Python library for interacting with the [CryptoFuse API](https://www.cryptofuse.net/api_docs). It enables developers to easily integrate CryptoFuse's cryptocurrency swapping functionality into their Python applications.
 
 
-# ## Installation
+### Installation
 
 Alternatively, if the package is available on PyPI, you can install it using `pip`:
 
