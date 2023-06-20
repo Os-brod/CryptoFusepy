@@ -5,9 +5,14 @@ CryptoFusePy is a Python library for interacting with the [CryptoFuse API](https
 
 ### Installation
 
+```sh
+pip install cryptofusepy
+```
+
+Alternatively you can do with the source code directly:
 
 ```sh
-git clone https://github.com/your_username_here/cryptofusepy.git
+git clone https://github.com/Os-brod/CryptoFusepy
 cd cryptofusepy
 pip install .
 ```
